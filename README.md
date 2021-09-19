@@ -1,2 +1,3 @@
 # Bookshop-
 The objective of the project is to store record of selling books and record is stored in text file name record . This project is based on C++ programming.
+👋 Hi, I’m Aman Sharma 👀 I’m interested in web development and coding ... 🌱 I’m currently learning python and full stack... 📫 How to reach me amansharmaup17@gmail.com ...
